@@ -1,10 +1,33 @@
-- 👋 Hi, I’m @Chiamaka-bit
-- 👀 I’m interested in data analysis ...
-- 🌱 I’m currently learning python for data analytics ...
-- 💞️ I’m looking to collaborate on projects ...
-- 📫 How to reach me @Chiamaka-bit ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: trying new things ...
+# 👋 Hi, I'm Amaka!  
+
+🎯 **Data Analyst | Power BI | Excel | SQL  
+📊 Passionate about turning data into actionable insights.   
+
+---
+
+## 🔥 **Skills & Tools**  
+🔹 **Power BI** – Dashboard development & DAX calculations.  
+🔹 **Excel** – Data cleaning, pivot tables, and analysis.  
+🔹 **SQL** – Querying & database management.  
+ 
+
+---
+
+## 📌 **Featured Projects**  
+### **1️⃣ Workforce Engagement & Responsiveness Dashboard**  
+📊 A Power BI dashboard analyzing employee responsiveness, engagement, and performance.  
+🔗 [View Project]  
+
+### **2️⃣ Retail Sales Performance Analysis**  
+📊 An Excel and Power BI report on sales trends, best-selling products, and revenue insights.  
+🔗 [View Project](https://github.com/your-username/Retail_Sales_Analysis)  
+
+---
+
+## 🚀 **Connect With Me**  
+🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
+📧 Email: your.email@example.com  
+
 
 <!---
 Chiamaka-bit/Chiamaka-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
