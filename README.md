@@ -18,9 +18,9 @@
 📊 A Power BI dashboard analyzing employee responsiveness, engagement, and performance.  
 🔗 [View Project]( https://github.com/Chiamaka-bit/Workforce_Engagement_Dashboard?tab=readme-ov-file#workforce_engagement_dashboard-and-responsiveness-dashboard) 
 
-### **2️⃣ Retail Sales Performance Analysis**  
-📊 An Excel and Power BI report on sales trends, best-selling products, and revenue insights.  
-🔗 [View Project](https://github.com/your-username/Retail_Sales_Analysis)  
+### **2️⃣  Sales Performance Analysis**  
+📊 A SQL report on sales trends, best-selling products, and revenue insights.  
+🔗 [View Project](https://github.com/Chiamaka-bit/Walmart-Sales-Analysis?tab=readme-ov-file#walmart-sales-analysis)  
 
 ---
 
