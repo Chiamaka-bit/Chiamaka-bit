@@ -25,8 +25,8 @@
 ---
 
 ## 🚀 **Connect With Me**  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-📧 Email: your.email@example.com  
+🔗 [LinkedIn](www.linkedin.com/in/mayor-chiamaka-o)  
+📧 Email: mayorchiamaka@gmail.com 
 
 
 <!---
