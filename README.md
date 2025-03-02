@@ -16,7 +16,7 @@
 ## 📌 **Featured Projects**  
 ### **1️⃣ Workforce Engagement & Responsiveness Dashboard**  
 📊 A Power BI dashboard analyzing employee responsiveness, engagement, and performance.  
-🔗 [View Project]  
+🔗 [View Project]( https://github.com/Chiamaka-bit/Workforce_Engagement_Dashboard?tab=readme-ov-file#workforce_engagement_dashboard-and-responsiveness-dashboard) 
 
 ### **2️⃣ Retail Sales Performance Analysis**  
 📊 An Excel and Power BI report on sales trends, best-selling products, and revenue insights.  
